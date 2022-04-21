@@ -1,7 +1,12 @@
 {
     "name": "Theme Control",
-    "author": "NegativeION/Jjhend",
+    "author": "NegativeION#0114",
     "main_view_html": "main_view.html",
     "tile_view_html": "",
-    "flags": ["_hot_reload", "_root"]
+    "flags": ["_hot_reload"],
+	"publish": {
+        "discord_id": "346110507197136918",
+        "description": "Classic SteamUI for Steam Deck",
+        "tags": ["style","theme"]
+        }
 }
