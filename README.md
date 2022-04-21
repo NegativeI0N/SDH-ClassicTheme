@@ -6,3 +6,9 @@ This is a css theme that attempts to recreate the classic steam client from 2004
 
 Simply copy the SDH-ClassicTheme folder into ~/homebrew/plugins
 
+## TODO
+
+- Fix style for download speed.
+- Add style to storage page.
+- Fix/add Stlye to chat.
+- Text/Selection color changes.
